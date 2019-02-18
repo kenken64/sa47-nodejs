@@ -3,6 +3,8 @@ Download the binary from this link https://nodejs.org/en/download/
 
 ## init Project
 ```
+mkdir sa47-fullstack
+cd sa47-fullstack
 npm init
 ```
 
