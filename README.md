@@ -15,7 +15,7 @@ npm i nodemon -g
 ```
 ### Mac or Linux
 ```
-npm i nodemon -g
+sudo npm i nodemon -g
 ```
 ## How to run the node js program
 ```
