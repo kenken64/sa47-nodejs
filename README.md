@@ -15,7 +15,7 @@ npm i nodemon -g
 ```
 npm i nodemon -g
 ```
-## How to runt he node js program
+## How to run the node js program
 ```
 nodemon app.js
 ```
